@@ -1,3 +1,5 @@
+#tafsir ahlam تطبيق تفسير الاحلام
+![tafsir ahlam](https://raw.githubusercontent.com/mahmoudbra/mahmoudbra.github.io/master/tafsir%20ahlam.webp "tafsir ahlam تطبيق")
 tafsir ahlam هو تطبيق قاموس تفسير أحلام المجاني الرائد لنظام Android. فماذا يعني ذلك؟ سنحدده لك!
 
 لدينا أكثر من 1.5 مليون تعريف ومرادفات للمساعدة في تحسين مفرداتك ، أو الدراسة ، أو تعزيز مهارات في تعبير الرؤى. ثبّت قاموسنا غير المتصل بالإنترنت حتى تتمكن من الوصول إلى الكلمات في أي مكان وفي أي وقت.
